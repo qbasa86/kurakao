@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1612893467,
+	"version": 1612897793,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -106,6 +106,14 @@
 		"images/tiledbackground22.png",
 		"images/tiledbackground24.png",
 		"images/tiledbackground25.png",
+		"images/sprite44-sheet0.png",
+		"images/sprite45-sheet0.png",
+		"images/sprite50-sheet0.png",
+		"images/sprite51-sheet0.png",
+		"images/sprite52-sheet0.png",
+		"images/sprite53-sheet0.png",
+		"images/sprite54-sheet0.png",
+		"images/sprite55-sheet0.png",
 		"media/hit3.m4a",
 		"media/hit3.ogg",
 		"media/bite-small.m4a",

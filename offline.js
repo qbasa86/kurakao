@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1612900398,
+	"version": 1612957787,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -44,6 +44,7 @@
 		"images/backbutton-sheet0.png",
 		"images/lock1-sheet0.png",
 		"images/level0-sheet0.png",
+		"images/playhard-sheet0.png",
 		"images/sprite47-sheet0.png",
 		"images/restart-sheet0.png",
 		"images/sprite48-sheet0.png",
